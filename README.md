@@ -16,4 +16,6 @@ Programın bir setup'u yoktur direk tıklayınca açılmaktadır.
 
 Böyle Projeler Geliştirerek Lütfen Hem Devletimie Hemde Milletimize Yardımcı Olmak Çok Güzeldir, Bütün Geliştirici Arkadaşlarımıza Kolay Gelsin.
 
+İndirme Linki:https://dosya.co/68k24zlvxrn2/Equinox_Live.zip.html
+
 
